@@ -132,7 +132,7 @@ submitBtn.addActionListener(e -> {
 
 1. **Clone or Download the Repository**
 ```bash
-git clone https://github.com/aruk04/Vehicle-Rental-Management-System.git
+git clone https://github.com/amritaak06/Vehicle-Rental-Management-System.git
 ```
 Or download and extract the `.zip` file.
 
